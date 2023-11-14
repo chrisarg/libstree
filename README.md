@@ -3,8 +3,7 @@ This is a fork of the libstree library http://www.icir.org/christian/libstree/ b
 The primary purpose of this form is to provide a permanent location for this small, performant implementation
 of suffix trees and ensure its perl API continues to work https://metacpan.org/pod/Tree::Suffix .
 
-The following is taken verbatim from the original README file in the libstree library. It provides general 
-instructions for building the library.
+The following is taken verbatim from the original README file in the libstree library. 
 
 
                      L   I   B   S   T   R   E   E
@@ -75,16 +74,4 @@ support various autoconf/automake combinations, we also support both a
 configure.ac and a configure.in template.
 
 There are example programs in the test/ subdirectory, please have a look
-at those. More documentation is currently in the works, but my time is
-limited.
-
-I hope LibSTree will be fun to use and will hopefully save you some
-time in coding string algorithms. If you have an algorithm to add,
-patches are greatly appreciated. Have fun!
-  
-                                         Cheers,
-                                         -- Christian.
-
-------------------------------------------------------------------------
-  Yet another SRG production -- http://www.cl.cam.ac.uk/Research/SRG/
-------------------------------------------------------------------------
+at those. 
